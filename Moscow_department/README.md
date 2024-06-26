@@ -41,11 +41,6 @@ https://docs.google.com/document/d/19gN2f4rIKgbD7GsGevjFe8M_b0d4yMGR/edit
 
 https://data.mos.ru/opendata/60562?isRecommendationData=false&pageSize=10&pageIndex=0&isDynamic=false&version=3&release=1147
 
-3. Ссылка на презентацию:
-
-https://docs.google.com/presentation/d/1cQA2HKl66MebP-4LMTGBDoFivKqj-yhA/edit?usp=sharing&ouid=110166545265394138045&rtpof=true&sd=true
-
-
 Используемые библиотеки:
 
 *pandas, seaborn, matplotlib.pyplot, plotly.express, plotly.graph_objects, Map, Marker, Choropleth, MarkerCluster, json, urllib.request*
